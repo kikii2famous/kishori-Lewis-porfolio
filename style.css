@@ -2,3 +2,48 @@ html {
   height: 100%;
   width: 100%;
 }
+
+p {
+  color:red
+}
+
+h1,
+p {
+  color:darkgray
+}
+
+section {
+  color:magenta
+}
+
+nav {
+  color:pink
+}
+
+.navbar {
+  background-color:lightslategrey;
+}
+
+.about {
+  background-color: lightpink;
+}
+
+.about:hover {
+  background-color: lightblue
+} 
+
+.skills {
+  background-color:antiquewhite;
+}
+
+.contact {
+  background-color:lightslategrey;
+}
+
+body {
+  margin: 0px;
+}
+
+.navbar li{
+   list-style-type: none;
+}
